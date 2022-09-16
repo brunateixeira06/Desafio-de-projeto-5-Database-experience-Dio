@@ -1,0 +1,18 @@
+
+O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados.
+
+
+SQL
+
+É uma linguagem declarativa de sintaxe relativamente simples, voltada a bancos de dados relacionais, que pode ser aprendida por profissionais que não são necessariamente desenvolvedores, mas trabalham com bancos de dados com frequência.
+
+NoSQL
+
+É um movimento que promove soluções de armazenamento de dados não relacionais. Ele é composto por diversas ferramentas que, de forma particular e especifica, resolvem problemas como tratamento de grandes volumes de dados, execução de consultas com baixa latência e modelos flexíveis de armazenamento de dados, como documentos XML ou JSON.
+
+SQL e NoSQL
+
+O conceito de modelo relacional (SQL) se baseia no fato de que todos os dados sejam guardados em tabelas. Ao modelo não-relacional (NoSQL) não se aplica o conceito de schema: uma chave de valor é que é utilizada para recuperar valores, conjunto de colunas ou documentos.
+
+
+
